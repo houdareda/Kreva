@@ -105,7 +105,7 @@ button {
 /* Start hero Section */
 
 .hero .content {
-  background: url(../images/bg-hero.jpg);
+  background: url(../images/bg-hero.webp);
   background-size: cover;
   background-position: bottom;
   padding-top: 8px;
@@ -124,9 +124,9 @@ button {
 }
 .hero ul li.black {
   background-color: #141414;
-  background-image: url(../images/dark.png);
+  /* background-image: url(../images/dark.);
   background-size: cover;
-  background-position: center;
+  background-position: center; */
 
   color: #fff;
 }
@@ -138,9 +138,9 @@ button {
   padding: 0;
 }
 .hero ul li.orange p {
-  background: url(../images/light.png);
+  /* background: url(../images/light.png);
   background-size: cover;
-  background-position: center;
+  background-position: center; */
   width: 100%;
   display: block;
   height: 100%;
@@ -225,7 +225,7 @@ button {
 
 .doctor {
   position: relative;
-  background: url(../images/top-doc.jpg);
+  background: url(../images/top-doc.webp);
   background-size: cover;
   background-position: top center;
 }
@@ -355,7 +355,7 @@ button {
 .how_work .top_work {
     position: relative;
       padding-top: 15px;
-  background: url(../images/top-work.jpg) center/cover;
+  background: url(../images/top-work.webp) center/cover;
   text-align: center;
   padding-bottom: 20px;
 }
@@ -401,7 +401,7 @@ button {
 }
 .how_work .text_Work{
         padding-top: 15px;
-  background: url(../images/btm-work.jpg) center/cover;
+  background: url(../images/btm-work.webp) center/cover;
 }
 .how_work ul {
   padding: 15px 0 0;
